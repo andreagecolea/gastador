@@ -125,9 +125,6 @@ If you forget your sync passcode, the encrypted copy in your account cannot be o
 
 ## Questions and fixes
 
-**The download link shows "Page not found".**
-You need access to this repository while it is private. Sign in to GitHub with an account that has access, or ask the owner.
-
 **Android will not install the file.**
 Open your phone's Settings, search for **Install unknown apps**, choose the browser or Files app you used, and switch on **Allow from this source**.
 
