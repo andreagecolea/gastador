@@ -4,7 +4,7 @@
 
 [![Watch the Gastador tour](docs/gastador-preview.gif)](docs/gastador-promo.mp4)
 
-**[Watch the full tour with sound](docs/gastador-promo.mp4)** (90 seconds)
+**[Watch the full tour with sound](docs/gastador-promo.mp4)** (80 seconds)
 
 | | |
 |---|---|
